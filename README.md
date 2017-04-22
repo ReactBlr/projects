@@ -11,7 +11,7 @@
 
 - [siddharthkp/reaqt](https://github.com/siddharthkp/reaqt): react made easy
 - [siddharthkp/react-prototype](https://github.com/siddharthkp/react-prototype): Designing with react, because why not?
-- [Add yours](https://github.com/ReactBangalore/projects/issues/new)
+- [Add your project](https://github.com/ReactBangalore/projects/issues/new)
 
 &nbsp;
 
