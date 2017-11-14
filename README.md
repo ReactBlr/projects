@@ -12,6 +12,7 @@
 - [ReactBangalore/website](https://github.com/ReactBangalore/website): website for React Bangalore
 - [siddharthkp/reaqt](https://github.com/siddharthkp/reaqt): react made easy
 - [siddharthkp/react-prototype](https://github.com/siddharthkp/react-prototype): Designing with react, because why not?
+- [Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions): A project to help beginners get started with contributing to open source projects.
 - [Add your project](https://github.com/ReactBangalore/projects/issues/new)
 
 &nbsp;
